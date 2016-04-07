@@ -1,5 +1,5 @@
 <p allign="center">
-  <img src="https://github.com/johansaji/rpi_yocot/blob/master/doc/img/monkos_transparent_logo.png" />
+  <img src="https://github.com/johansaji/rpi_yocto/blob/feature/docs/docs/logo/monkos_transparet_logo.png" />
   <H>Media ON Kodi</H>
 </p>
 
