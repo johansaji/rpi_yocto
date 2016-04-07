@@ -1,3 +1,8 @@
+<p allign="center">
+  <img src="https://github.com/johansaji/rpi_yocot/blob/master/doc/img/monkos_transparent_logo.png" />
+  <H>Media ON Kodi</H>
+</p>
+
 # Monk OS
 
 This is a [Yocto](http://www.yoctoproject.org) based build repository for MonkOS. We intend to run [Kodi](https://kodi.tv/) with some extra features that make a rich entertainment experience for the user. 
